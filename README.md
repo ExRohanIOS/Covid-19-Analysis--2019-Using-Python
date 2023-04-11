@@ -5,8 +5,8 @@ covid19_Confirmed_dataset.csv
 worldwide_happiness_report.csv
 [worldwide_happiness_report.csv](https://github.com/ExRohanIOS/Covid-19-Analysis--2019-Using-Python/files/11199041/worldwide_happiness_report.csv)
 [covid19_Confirmed_dataset.csv](https://github.com/ExRohanIOS/Covid-19-Analysis--2019-Using-Python/files/11199043/covid19_Confirmed_dataset.csv)
-
-Follow Jpg Images are the output of the data anlysis of Covid 19 Project.
+Following PNG Images are the output's of the data anlysis of Covid 19 Project.
+-----------------------------------------------------------------------------------
 ![1](https://user-images.githubusercontent.com/130452818/231129042-8f8dd6c2-2458-4df5-bea9-504e5b4fa346.png)
 ![22](https://user-images.githubusercontent.com/130452818/231129663-451a83cb-1acc-4607-9893-0585f550ea63.png)
 ![33](https://user-images.githubusercontent.com/130452818/231129692-52dc613a-2034-48bd-ab22-b92fad3194f9.png)
