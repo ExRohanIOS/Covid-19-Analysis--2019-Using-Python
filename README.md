@@ -8,8 +8,8 @@ worldwide_happiness_report.csv
 
 Follow Jpg Images are the output of the data anlysis of Covid 19 Project.
 ![1](https://user-images.githubusercontent.com/130452818/231129042-8f8dd6c2-2458-4df5-bea9-504e5b4fa346.png)
-![2](https://user-images.githubusercontent.com/130452818/231129070-45e2cdb0-2208-43ba-b97f-2ccd0e8771ba.png)
-![3](https://user-images.githubusercontent.com/130452818/231129080-46eae094-5874-49f5-827c-ed57e611cb3b.png)
+![22](https://user-images.githubusercontent.com/130452818/231129663-451a83cb-1acc-4607-9893-0585f550ea63.png)
+![33](https://user-images.githubusercontent.com/130452818/231129692-52dc613a-2034-48bd-ab22-b92fad3194f9.png)
 ![4](https://user-images.githubusercontent.com/130452818/231129097-3022a187-2f5e-497e-a1ff-4110973ba534.png)
 ![5](https://user-images.githubusercontent.com/130452818/231129106-bde2e9fe-783a-4bc9-a880-2639f8b63958.png)
 ![6](https://user-images.githubusercontent.com/130452818/231129114-07eaf727-195d-46f0-bd65-d9cfce928888.png)
